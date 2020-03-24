@@ -1,24 +1,11 @@
-# first-app
+# [until covid-19 is gone] days of Vue!
 
-## Project setup
-```
-yarn install
-```
+## Why Vue?
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- Bored with React
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Day 1
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [vue-router](https://router.vuejs.org/)
+- [vue-router on single file component](https://appdividend.com/2018/12/28/vue-router-tutorial-with-example-how-to-use-routing-in-vuejs/)
+- [router history mode](https://router.vuejs.org/guide/essentials/history-mode.html#example-server-configurations)

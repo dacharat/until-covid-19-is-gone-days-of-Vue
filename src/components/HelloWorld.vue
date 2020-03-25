@@ -2,14 +2,25 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <ul>
-      <router-link to="/day1">Day 1</router-link>
+      <li v-for="route in routes" :key="route.path">
+        <router-link :to="route.path">{{route.title}}</router-link>
+      </li>
     </ul>
   </div>
 </template>
 
 <script>
+import routes from "../routers";
+
 export default {
   name: "HelloWorld",
+  data() {
+    return {
+      routes: routes
+        .filter(r => r.path.includes("day"))
+        .map(r => ({ path: r.path, title: r.path.slice(1) }))
+    };
+  },
   props: {
     msg: String
   }
@@ -26,8 +37,7 @@ ul {
   padding: 0;
 }
 li {
-  display: inline-block;
-  margin: 0 10px;
+  margin: 10px;
 }
 a {
   color: #42b983;

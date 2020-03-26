@@ -22,3 +22,8 @@
 - [vue instance data](https://www.newline.co/30-days-of-vue/day-02-the-vue-instance---data)
 - [vue instance data driven applications](https://www.newline.co/30-days-of-vue/day-03-the-vue-instance---data-driven-applications)
 - [vue directive](https://www.newline.co/30-days-of-vue/day-04-vue-directives)
+
+## Day 3
+
+- [list rendering with v-for](https://www.newline.co/30-days-of-vue/day-05-list-rendering-with-v-for)
+- [form handleing with v-model](https://www.newline.co/30-days-of-vue/day-06-form-handling-with-v-model)

@@ -27,3 +27,9 @@
 
 - [list rendering with v-for](https://www.newline.co/30-days-of-vue/day-05-list-rendering-with-v-for)
 - [form handleing with v-model](https://www.newline.co/30-days-of-vue/day-06-form-handling-with-v-model)
+- [vue devtools](https://www.newline.co/30-days-of-vue/day-07-vue-devtools)
+
+## Day 4
+
+- [methods and computed properties](https://www.newline.co/30-days-of-vue/day-08-methods-and-computed-properties)
+- [watchers](https://www.newline.co/30-days-of-vue/day-09-watchers)

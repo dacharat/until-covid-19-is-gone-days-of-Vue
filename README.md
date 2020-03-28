@@ -33,3 +33,8 @@
 
 - [methods and computed properties](https://www.newline.co/30-days-of-vue/day-08-methods-and-computed-properties)
 - [watchers](https://www.newline.co/30-days-of-vue/day-09-watchers)
+
+## Day 5
+
+- [lifecycle hooks](https://www.newline.co/30-days-of-vue/day-10-lifecycle-hooks)
+- [instance](https://vuejs.org/v2/guide/instance.html)

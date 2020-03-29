@@ -38,3 +38,9 @@
 
 - [lifecycle hooks](https://www.newline.co/30-days-of-vue/day-10-lifecycle-hooks)
 - [instance](https://vuejs.org/v2/guide/instance.html)
+
+## Day 6
+
+- [vue components](https://www.newline.co/30-days-of-vue/day-11-vue-components---global-components)
+- [props](https://www.newline.co/30-days-of-vue/day-12-vue-components---props)
+- [components resgistration](https://vuejs.org/v2/guide/components-registration.html)

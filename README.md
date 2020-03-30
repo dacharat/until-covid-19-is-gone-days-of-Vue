@@ -44,3 +44,8 @@
 - [vue components](https://www.newline.co/30-days-of-vue/day-11-vue-components---global-components)
 - [props](https://www.newline.co/30-days-of-vue/day-12-vue-components---props)
 - [components resgistration](https://vuejs.org/v2/guide/components-registration.html)
+
+## Day 7
+
+- [custom events 30 days](https://www.newline.co/30-days-of-vue/day-13-vue-components---custom-events)
+- [custom events vue doc](https://vuejs.org/v2/guide/components-custom-events.html)

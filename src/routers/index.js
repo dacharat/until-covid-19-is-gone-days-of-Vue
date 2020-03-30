@@ -6,6 +6,7 @@ import Day3 from "../views/Day3.vue";
 import Day4 from "../views/Day4.vue";
 import Day5 from "../views/Day5.vue";
 import Day6 from "../views/Day6.vue";
+import Day7 from "../views/Day7.vue";
 
 const router = [
   { path: "/", component: Home },
@@ -14,7 +15,8 @@ const router = [
   { path: "/day3", component: Day3 },
   { path: "/day4", component: Day4 },
   { path: "/day5", component: Day5 },
-  { path: "/day6", component: Day6 }
+  { path: "/day6", component: Day6 },
+  { path: "/day7", component: Day7 }
 ];
 
 export default router;

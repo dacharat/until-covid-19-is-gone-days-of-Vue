@@ -49,3 +49,9 @@
 
 - [custom events 30 days](https://www.newline.co/30-days-of-vue/day-13-vue-components---custom-events)
 - [custom events vue doc](https://vuejs.org/v2/guide/components-custom-events.html)
+
+## Day 8
+
+- [vue nice to knows](https://www.newline.co/30-days-of-vue/day-14-vue-components---nice-to-knows)
+- [template definitions](https://www.newline.co/30-days-of-vue/day-15-vue-components---template-definitions)
+- [x-templates](https://vuejs.org/v2/guide/components-edge-cases.html#X-Templates)

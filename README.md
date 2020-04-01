@@ -55,3 +55,9 @@
 - [vue nice to knows](https://www.newline.co/30-days-of-vue/day-14-vue-components---nice-to-knows)
 - [template definitions](https://www.newline.co/30-days-of-vue/day-15-vue-components---template-definitions)
 - [x-templates](https://vuejs.org/v2/guide/components-edge-cases.html#X-Templates)
+
+## Day 9
+
+- [single file components](https://www.newline.co/30-days-of-vue/day-17-single-file-components)
+- [slots](https://vuejs.org/v2/guide/components-slots.html)
+- [vue-slots](https://flaviocopes.com/vue-slots/)

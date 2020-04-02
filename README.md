@@ -61,3 +61,8 @@
 - [single file components](https://www.newline.co/30-days-of-vue/day-17-single-file-components)
 - [slots](https://vuejs.org/v2/guide/components-slots.html)
 - [vue-slots](https://flaviocopes.com/vue-slots/)
+
+## Day 10
+
+- [custom events and eventbus](https://www.newline.co/30-days-of-vue/day-19-custom-events-and-the-eventbus)
+- [eventbus](https://blog.logrocket.com/using-event-bus-in-vue-js-to-pass-data-between-components/)

@@ -66,3 +66,7 @@
 
 - [custom events and eventbus](https://www.newline.co/30-days-of-vue/day-19-custom-events-and-the-eventbus)
 - [eventbus](https://blog.logrocket.com/using-event-bus-in-vue-js-to-pass-data-between-components/)
+
+## Day 11
+
+- [simple global store](https://www.newline.co/30-days-of-vue/day-20-simple-global-store)

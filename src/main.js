@@ -1,6 +1,7 @@
 import Vue from "vue";
 import App from "./App.vue";
 import VueRouter from "vue-router";
+import store from "./stores";
 
 import routes from "./routers";
 
@@ -14,5 +15,6 @@ export const bus = new Vue(); // for day 10 eventbus
 
 new Vue({
   router,
-  render: h => h(App)
+  render: (h) => h(App),
+  store,
 }).$mount("#app");

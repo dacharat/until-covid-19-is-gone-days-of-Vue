@@ -70,3 +70,7 @@
 ## Day 11
 
 - [simple global store](https://www.newline.co/30-days-of-vue/day-20-simple-global-store)
+
+## Day 12
+
+- [flux](https://www.newline.co/30-days-of-vue/day-21-introduction-to-flux)

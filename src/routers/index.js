@@ -12,6 +12,7 @@ import Day9 from "../views/Day9.vue";
 import Day10 from "../views/Day10.vue";
 import Day11 from "../views/Day11.vue";
 import Day12 from "../views/Day12.vue";
+import Day13 from "../views/Day13.vue";
 
 const router = [
   { path: "/", component: Home },
@@ -27,6 +28,7 @@ const router = [
   { path: "/day10", component: Day10 },
   { path: "/day11", component: Day11 },
   { path: "/day12", component: Day12 },
+  { path: "/day13", component: Day13 },
 ];
 
 export default router;

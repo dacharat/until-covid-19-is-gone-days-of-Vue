@@ -74,3 +74,8 @@
 ## Day 12
 
 - [flux](https://www.newline.co/30-days-of-vue/day-21-introduction-to-flux)
+- [vuex](https://www.newline.co/30-days-of-vue/day-22-vuex)
+
+## Day 13
+
+- [pokemon routing](https://www.newline.co/30-days-of-vue/day-23-introduction-to-routing)

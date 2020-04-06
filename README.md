@@ -79,3 +79,7 @@
 ## Day 13
 
 - [pokemon routing](https://www.newline.co/30-days-of-vue/day-23-introduction-to-routing)
+
+## Day 14
+
+- [vue pokemon router](https://www.newline.co/30-days-of-vue/day-24-vue-router)

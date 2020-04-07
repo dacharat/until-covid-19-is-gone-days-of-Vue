@@ -14,6 +14,7 @@ import Day11 from "../views/Day11.vue";
 import Day12 from "../views/Day12.vue";
 import Day13 from "../views/Day13.vue";
 import Day14 from "../views/Day14.vue";
+import Day15 from "../views/Day15.vue";
 
 import NotFound from "../components/day14/NotFound.vue";
 import BlastoiseCard from "../components/day14/BlastoiseCard.vue";
@@ -40,6 +41,7 @@ const router = [
   { path: "/day14/blastoise", component: BlastoiseCard },
   { path: "/day14/charizard", component: CharizardCard },
   { path: "/day14/venusaur", component: VenusaurCard },
+  { path: "/day15", component: Day15 },
 ];
 
 export default router;

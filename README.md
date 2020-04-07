@@ -83,3 +83,8 @@
 ## Day 14
 
 - [vue pokemon router](https://www.newline.co/30-days-of-vue/day-24-vue-router)
+
+## Day 15
+
+- [introduction to testing](https://www.newline.co/30-days-of-vue/day-25-introduction-to-testing)
+- [implementing tests](https://www.newline.co/30-days-of-vue/day-26-implementing-tests)

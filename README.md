@@ -92,3 +92,7 @@
 ## Day 16
 
 - [testing in app](https://www.newline.co/30-days-of-vue/day-27-testing-the-app)
+
+## Day 17
+
+- Free
